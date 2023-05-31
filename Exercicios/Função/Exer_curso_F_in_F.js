@@ -6,7 +6,7 @@ e de somar essas raizes
 */
 
 function somaQuadrado(q1, q2) {
-    function calculaQuadrado(q) {
+    const calculaQuadrado = (q) => {
         return q * q
     }
 
