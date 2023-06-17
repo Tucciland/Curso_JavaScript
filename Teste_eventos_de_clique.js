@@ -2,7 +2,7 @@
 function clique() {
     console.log("Clicou no botão")
 }
-/*
+
 let x = document.querySelector('.botao1')
 x.addEventListener("click", clique)
 
