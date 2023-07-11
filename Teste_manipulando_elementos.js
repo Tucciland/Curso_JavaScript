@@ -32,4 +32,3 @@ bt3.addEventListener("click", alteravalor2)
 
 let bt4 = document.querySelector(".botao4")
 bt4.addEventListener("click", alteravalor3)
-
